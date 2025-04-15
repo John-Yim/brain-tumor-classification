@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification (MRI 이미지 기반 뇌종양 분류)
+# 🧠 전이학습 기반 뇌종양 분류
 
 본 프로젝트는 MRI 뇌 영상 데이터를 기반으로 딥러닝 모델을 활용해  
 **뇌종양의 존재 여부 및 종류를 분류**하는 모델을 개발한 실험 노트북입니다.
@@ -42,3 +42,9 @@
 - 출처: [Kaggle - BBrain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)
 - 클래스: `no_tumor`, `glioma`, `meningioma`, `pituitary`
 - 제공된 `Testing` 데이터를 **Validation 용도**로 사용함
+
+---
+🚀 데모 체험
+
+- Hugging Face Demo (실시간 민원 분류 + 부처 정보 제공)  
+  👉 [전이학습 기반 뇌종양 분류](https://huggingface.co/spaces/JohnYim0213/project-note)
