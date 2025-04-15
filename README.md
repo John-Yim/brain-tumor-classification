@@ -9,6 +9,7 @@
 ---
 
 ## 📁 주요 파일
+- **출처**: Kaggle의 [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data) 공개 데이터셋 사용
 
 | 파일명 | 설명 |
 |--------|------|
@@ -44,7 +45,8 @@
 - 제공된 `Testing` 데이터를 **Validation 용도**로 사용함
 
 ---
-🚀 데모 체험
+
+## 🚀 데모 체험
 
 - Hugging Face Demo (실시간 민원 분류 + 부처 정보 제공)  
   👉 [전이학습 기반 뇌종양 분류](https://huggingface.co/spaces/JohnYim0213/project-note)
